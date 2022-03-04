@@ -1,20 +1,16 @@
 Python 2.7.14 (v2.7.14:84471935ed, Sep 16 2017, 20:25:58) [MSC v.1500 64 bit (AMD64)] on win32
 Type "copyright", "credits" or "license()" for more information.
 >>> 
- RESTART: C:\Users\Donal\Dropbox\Because\~Python\HP3245A\HP3245_Calibrate.py 
+RESTART: C:\Users\DBB\~Python\HP3245A\HP3245_Calibrate.py 
 
-HP3458A
-
-HEWLETT PACKARD
-3245           
-0              
-2843           
-
-    46
-
-"INITIALIZED CAL"
-
-     1
+HP3458A
+HEWLETT PACKARD
+3245           
+0              
+2843           
+    46
+"INITIALIZED CAL"
+     1
 
 Want to also calibrate Amps? [Y} (any other ke for NO)Y
 Now calibrating Volts mode, Amps will follow in about 18min . . .
