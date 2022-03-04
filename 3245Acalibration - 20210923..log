@@ -1,0 +1,94 @@
+Python 2.7.14 (v2.7.14:84471935ed, Sep 16 2017, 20:25:58) [MSC v.1500 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:\Users\Donal\Dropbox\Because\~Python\HP3245A\HP3245_Calibrate.py 
+
+HP3458A
+
+HEWLETT PACKARD
+3245           
+0              
+2843           
+
+    46
+
+"INITIALIZED CAL"
+
+     1
+
+Want to also calibrate Amps? [Y} (any other ke for NO)Y
+Now calibrating Volts mode, Amps will follow in about 18min . . .
+Reading 1  9.508466470E+00
+Reading 2 -9.501711632E+00
+Reading 3 -8.986621180E+00
+Reading 4  9.039457755E+00
+Reading 5  2.942812772E-02
+Reading 6  3.193793408E-02
+Reading 7  3.456935601E-02
+Reading 8  2.942782364E-02
+Reading 9  9.042194147E+00
+Reading 10 -8.983881239E+00
+Reading 11  1.151678221E+00
+Reading 12 -1.143912720E+00
+Reading 13  9.182313213E+00
+Reading 14 -8.411798272E+00
+Reading 15  9.468682657E+00
+Reading 16  2.051742322E+00
+Reading 17  4.633931127E+00
+Reading 18 -4.245569341E+00
+Reading 19  2.346080068E+00
+Reading 20 -2.150259534E+00
+Reading 21  1.168695261E+00
+Reading 22 -1.071974731E+00
+Reading 23  5.803400638E-01
+Reading 24 -5.331555961E-01
+Reading 25  2.901634137E-01
+Reading 26 -2.674006132E-01
+Reading 27  1.456537068E-01
+Reading 28 -1.350573499E-01
+Reading 29  7.808875733E+00
+Reading 30  7.907691091E+00
+Reading 31 -7.751604020E+00
+Reading 32 -8.463835823E+00
+Reading 33  3.940568966E+00
+Reading 34 -3.912385491E+00
+Reading 35  1.994963165E+00
+Reading 36 -1.981533486E+00
+Reading 37  9.937216215E-01
+Reading 38 -9.878936528E-01
+Reading 39  4.933902848E-01
+Reading 40 -4.913665241E-01
+Reading 41  2.466252228E-01
+Reading 42 -2.464734973E-01
+Reading 43  1.237340558E-01
+Reading 44 -1.245220300E-01
+Reading 45 -2.168809020E-03
+Reading 46  9.997797801E+00
+Reading 47 -1.007817066E+01
+Switch connection to Amps, anykey when done 
+Now calibrating Amps mode . . .
+Reading 48  2.908960228E-02
+Reading 49 -2.845893894E-02
+Reading 50  9.695600062E-03
+Reading 51 -9.631201929E-03
+Reading 52  8.399400408E-04
+Reading 53 -8.341020754E-04
+Reading 54  8.399626241E-05
+Reading 55 -8.339532475E-05
+Reading 56  6.600338102E-02
+Reading 57 -5.823658916E-02
+Reading 58  7.410728697E-03
+Reading 59 -6.517016109E-03
+Reading 60  6.434146689E-04
+Reading 61 -5.662224714E-04
+Reading 62  6.434309406E-05
+Reading 63 -5.662441500E-05
+Reading 64  8.013990170E-02
+Reading 65 -7.966663352E-02
+Reading 66  8.674353022E-03
+Reading 67 -8.644512233E-03
+Reading 68  7.785263121E-04
+Reading 69 -7.727008979E-04
+Reading 70  7.809025083E-05
+Reading 71 -7.747057794E-05
+>>> 
